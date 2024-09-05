@@ -5,7 +5,7 @@
 - 🌱 Estudando as Linguagens C, Python e Java
 - 📫 Contate-me no email: nathylima464@gmail.com
 - 😄 Pronouns: Ela/Dela
-
+  
 <div align="center">
   <a href="https://github.com/nathalialimaa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalialimaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
