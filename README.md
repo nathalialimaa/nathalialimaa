@@ -7,7 +7,7 @@
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
-  <a href="https://github.com/Neto-Pereira25">
+  <a href="https://github.com/nathalialimaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalialimaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalialimaa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -33,3 +33,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathalialimaa/nathalialimaa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nathalialimaa/nathalialimaa/output/github-contribution-grid-snake.svg">
 </picture>
+
