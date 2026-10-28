@@ -1,0 +1,31 @@
+name: Atualizar Pac-Man das contribuicoes
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 3 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Gerar e publicar Pac-Man
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Gerar SVGs animados com contribuicoes reais
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: nathalialimaa
+          games: 'pacman'
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
