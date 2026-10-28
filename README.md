@@ -25,7 +25,7 @@
 <div align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/metrics-mobile.svg" />
-    <img src="assets/metrics-desktop.svg" alt="Indicadores públicos: 34 repositórios, 12 seguidores, três projetos destacados e três áreas de atuação. Dados de outubro de 2026." width="100%" />
+    <img src="assets/metrics-desktop.svg" alt="Indicadores públicos: 34 repositórios, 12 seguidores, quatro projetos destacados e três áreas de atuação. Dados de outubro de 2026." width="100%" />
   </picture>
 </div>
 
@@ -69,6 +69,20 @@
   <picture>
     <source media="(max-width: 600px)" srcset="assets/project-3-mobile.svg" />
     <img src="assets/project-3-desktop.svg" alt="CRUD de Livraria em C — operações de cadastro, consulta, atualização e exclusão." width="100%" />
+  </picture>
+</a>
+
+<a href="https://github.com/nathalialimaa/AlertaChuvaPe" title="Abrir AlertaChuvaPE no GitHub">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/project-4-mobile.svg" />
+    <img src="assets/project-4-desktop.svg" alt="AlertaChuvaPE — Aplicativo Android com previsão do tempo e mapas, autenticação e registro de ocorrências com Firebase." width="100%" />
+  </picture>
+</a>
+
+<a href="https://github.com/nathalialimaa/design-patterns-java-com-spring" title="Abrir Design Patterns com Spring no GitHub">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/project-5-mobile.svg" />
+    <img src="assets/project-5-desktop.svg" alt="Design Patterns com Spring — API de produtos e descontos com Java e Spring Boot, aplicando os padrões Strategy, Factory e Facade." width="100%" />
   </picture>
 </a>
 
